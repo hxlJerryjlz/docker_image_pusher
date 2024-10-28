@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 bitnami/postgresql
 redis:7.4.1
+mysql:8.0.40-debian
