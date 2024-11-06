@@ -1,1 +1,1 @@
-styletang/rocketmq-console-ng:latest
+redis:7
