@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.4.0
+apache/rocketmq:5.3.1
