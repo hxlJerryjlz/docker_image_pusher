@@ -1,1 +1,1 @@
-jenkins/jenkins:lts-jdk21
+emqx/emqx:5.10.2
