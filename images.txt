@@ -1,1 +1,1 @@
-filebeat:8.17.10
+elastic/filebeat:8.17.10
