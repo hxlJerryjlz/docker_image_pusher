@@ -1,1 +1,1 @@
-emqx/emqx:5.10.2
+xuxueli/xxl-job-admin:2.4.1
