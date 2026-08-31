@@ -1,1 +1,1 @@
-elastic/filebeat:8.17.10
+nginx:1.26.3
